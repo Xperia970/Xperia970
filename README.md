@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm USerXerai</h1>
 <h3 align="center">A passionate app developer from Türkiye</h3>
 
-<p align="left"> <a href="https://twitter.com/x64_bit1" target="blank"><img src="https://img.shields.io/twitter/follow/x64_bit1?logo=twitter&style=for-the-badge" alt="x64_bit1" /></a> </p>
-
 - 🔭 I’m currently working on **new project**
 
 - 🌱 I’m currently learning **Swift**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xperia970&show_icons=true&locale=en&layout=compact" alt="xperia970" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xperia970&show_icons=true&locale=en" alt="xperia970" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperia970&" alt="xperia970" /></p>
