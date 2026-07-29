@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xperia970&show_icons=true&locale=en" alt="xperia970" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperia970&" alt="xperia970" /></p>
+
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
