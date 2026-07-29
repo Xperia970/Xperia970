@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I think I am laazzyy=)**
 
+- 👨‍💻 Passionate app developer creating projects with Python.
+
+- 🐧 Arch Linux user btw <3
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/x64_bit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x64_bit1" height="30" width="40" /></a>
