@@ -31,4 +31,4 @@
   <img align="center"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xperia970&layout=compact&theme=default"
        alt="Top Languages" />
-</p>username=xperia970&show_icons=true&locale=en&layout=compact" alt="xperia970" /></p>
+
