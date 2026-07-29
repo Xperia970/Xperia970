@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am laazzyy=)**
 
-- 👨‍💻 Passionate app developer creating projects with Python.
+- 👨‍💻 Passionate app developer creating projects with Python and Shell.
 
 - 🐧 Arch Linux user btw <3
 
