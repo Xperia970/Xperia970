@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm USerXerai</h1>
 <h3 align="center">A passionate app developer from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xperia970&label=Profile%20views&color=0e75b6&style=flat" alt="xperia970" /> </p>
+
 - 🔭 I’m currently working on **new project**
 
 - 🌱 I’m currently learning **Swift**
@@ -30,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xperia970&show_icons=true&locale=en&layout=compact" alt="xperia970" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xperia970&show_icons=true&locale=en" alt="xperia970" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperia970&" alt="xperia970" /></p>
